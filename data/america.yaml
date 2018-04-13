@@ -289,6 +289,11 @@
    type: school
    long: -118.285128
    lat: 34.022329
+ - name: Universidade Federal de Pernambuco - Grupo de Pesquisa em Redes e Telecomunicações
+   type: school
+   lat: -8.0537932
+   long: -34.9476852
+   link: https://www.ufpe.br/
  - name: Universidade Federal do Rio Grande do Sul - Grupo de Controle, Automacao e Robotica
    type: school
    lat: -30.032393
